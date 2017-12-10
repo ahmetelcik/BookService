@@ -1,0 +1,15 @@
+{
+    "name": "froq/skeleton",
+    "homepage": "https://github.com/froq/skeleton",
+    "description":  "Skeleton part of Froq!",
+    "keywords": ["froq", "skeleton"],
+    "license": "GNU General Public License v3.0",
+    "authors": [
+        {"name": "Kerem Güneş", "email": "k-gun@mail.com"}
+    ],
+    "require": {
+        "php": "^7.1",
+        "froq/froq": "~2.0"
+    },
+    "minimum-stability": "stable"
+}
