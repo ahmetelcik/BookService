@@ -16,10 +16,9 @@ class MainService extends Service
     {
         print "Hello, Froq!\n";
 
+        echo "hello x";
 
     }
 
-    public function yes(){
-    	echo "yes";
-	}
+
 }
