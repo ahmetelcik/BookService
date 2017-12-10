@@ -50,3 +50,4 @@ And add following line to `/etc/hosts` file.
 ```
 
 And just open http://froq.local link.
+# BookService
